@@ -32,8 +32,8 @@ Every driver has 4 files `interface.h` `config.h` `private.h` `program.c`
 * **programe.c**: this file has the C code of all functions.
 > Note: from the previous description, we can know the the first two file `interface.h` `config.h` the user can access them or see what is inside so that he can use the driver and knows its options. and the last two file `private.h` `program.c` the user can't access them or even know what is inside.
 
-> Note: there is a folder called **LIB** (Library) this folder contains utilities or files that will be used in all layers like the standard data types or bit manipulation.
+> There is a folder called **LIB** (Library) this folder contains utilities or files that will be used in all layers like the standard data types or bit manipulation.
 
 This photo from the internet clarifies the project idea.
-> Note: my project is working well but because of mobile camera settings like iso, shutter time make the shape of the clock not clear unlike in real life and in the photo below.
+> My project is working well but because of mobile camera settings like iso, shutter time make the shape of the clock not clear unlike in real life and in the photo below.
 <img src="https://github.com/HosamAyoub/Photos/blob/main/POV-display/3.png?raw=true" title = "Analog Clock">
