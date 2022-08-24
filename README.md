@@ -10,7 +10,7 @@ POV display anlaog clock. Display based on the persistence of vision concept sho
 * Hall effect sensor
 * Magnet
 
-<img src="https://github.com/HosamAyoub/Photos/blob/main/POV-display/1.png?raw=true" title = "Hardware" width="350" height="680"> &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/HosamAyoub/Photos/blob/main/POV-display/2.png?raw=true" title = "Hardware" width="350" height="680">
+<img src="https://github.com/HosamAyoub/Photos/blob/main/POV-display/1.png?raw=true" title = "Hardware" width="350" height="600"> &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/HosamAyoub/Photos/blob/main/POV-display/2.png?raw=true" title = "Hardware" width="350" height="600">
 
 ## Drivers
 
