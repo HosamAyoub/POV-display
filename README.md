@@ -1,7 +1,7 @@
 # POV-display
-POV display anlaog clock. Display based on the persistence of vision concept shows a clock has 3 axes for hours, minutes and seconds. The display has a refresh rate of 1 second.
+POV display anlaog clock. Display based on the persistence of vision concept shows a clock has 3 axes for hours, minutes and seconds. The display has a refresh rate of 1 second.  
 
-
+The main idea of this application is to customize the line of LEDs which will be off and on at a specific degree of the circle so that you can generate any shape you want.
 
 ## Hardware
 * Atmega32
